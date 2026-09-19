@@ -12,3 +12,4 @@ openpyxl>=3.1.0
 
 # Document & PDF Parsing
 pypdf>=4.0.0
+dotenv
