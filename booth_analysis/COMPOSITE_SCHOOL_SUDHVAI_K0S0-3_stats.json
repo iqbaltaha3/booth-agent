@@ -1,0 +1,204 @@
+{
+  "booth_metadata": {
+    "booth_name": "Unknown Booth",
+    "locality": "Unknown Locality",
+    "total_registered_voters": 1012
+  },
+  "gender_demographics": {
+    "counts": {
+      "Male": 536,
+      "Female": 476
+    },
+    "sex_ratio_females_per_1000_males": 888.1,
+    "third_gender_count": 0
+  },
+  "age_demographics": {
+    "statistics": {
+      "mean_age": 45.4,
+      "median_age": 43.0,
+      "min_age": 18,
+      "max_age": 98
+    },
+    "distribution_counts": {
+      "First_Time (18-21)": 28,
+      "Youth (22-35)": 292,
+      "Middle_Aged (36-50)": 323,
+      "Mature (51-65)": 261,
+      "Seniors (66-80)": 80,
+      "Super_Seniors (81+)": 28
+    },
+    "distribution_percentages": {
+      "First_Time (18-21)": 2.77,
+      "Youth (22-35)": 28.85,
+      "Middle_Aged (36-50)": 31.92,
+      "Mature (51-65)": 25.79,
+      "Seniors (66-80)": 7.91,
+      "Super_Seniors (81+)": 2.77
+    }
+  },
+  "socio_religious_profile": {
+    "religion_counts": {
+      "Hindu": 919,
+      "Muslim": 93
+    },
+    "religion_percentages": {
+      "Hindu": 90.81,
+      "Muslim": 9.19
+    },
+    "social_category_counts": {
+      "General": 376,
+      "Undetermined": 338,
+      "OBC": 238,
+      "SC": 60
+    },
+    "social_category_percentages": {
+      "General": 37.15,
+      "Undetermined": 33.4,
+      "OBC": 23.52,
+      "SC": 5.93
+    },
+    "caste_breakdown_counts": {
+      "Undetermined": 338,
+      "राजपूत": 235,
+      "ब्राह्मण": 109,
+      "कुशवाहा": 76,
+      "पाल": 70,
+      "पासी": 57,
+      "नाई": 26,
+      "विश्वकर्मा": 24,
+      "मोमिन": 20,
+      "बनिया": 19,
+      "कुर्मी": 11,
+      "शेख": 10,
+      "यादव": 8,
+      "चमार": 3,
+      "सिद्दीकी": 3,
+      "बिंद": 1,
+      "कुम्हार": 1,
+      "कलवार": 1
+    },
+    "caste_breakdown_percentages": {
+      "Undetermined": 33.4,
+      "राजपूत": 23.22,
+      "ब्राह्मण": 10.77,
+      "कुशवाहा": 7.51,
+      "पाल": 6.92,
+      "पासी": 5.63,
+      "नाई": 2.57,
+      "विश्वकर्मा": 2.37,
+      "मोमिन": 1.98,
+      "बनिया": 1.88,
+      "कुर्मी": 1.09,
+      "शेख": 0.99,
+      "यादव": 0.79,
+      "चमार": 0.3,
+      "सिद्दीकी": 0.3,
+      "बिंद": 0.1,
+      "कुम्हार": 0.1,
+      "कलवार": 0.1
+    }
+  },
+  "caste_gender_cross_tabulation": {
+    "Undetermined": {
+      "Female": 163,
+      "Male": 175
+    },
+    "कलवार": {
+      "Female": 0,
+      "Male": 1
+    },
+    "कुम्हार": {
+      "Female": 1,
+      "Male": 0
+    },
+    "कुर्मी": {
+      "Female": 5,
+      "Male": 6
+    },
+    "कुशवाहा": {
+      "Female": 36,
+      "Male": 40
+    },
+    "चमार": {
+      "Female": 2,
+      "Male": 1
+    },
+    "नाई": {
+      "Female": 13,
+      "Male": 13
+    },
+    "पाल": {
+      "Female": 31,
+      "Male": 39
+    },
+    "पासी": {
+      "Female": 26,
+      "Male": 31
+    },
+    "बनिया": {
+      "Female": 7,
+      "Male": 12
+    },
+    "बिंद": {
+      "Female": 1,
+      "Male": 0
+    },
+    "ब्राह्मण": {
+      "Female": 50,
+      "Male": 59
+    },
+    "मोमिन": {
+      "Female": 9,
+      "Male": 11
+    },
+    "यादव": {
+      "Female": 4,
+      "Male": 4
+    },
+    "राजपूत": {
+      "Female": 108,
+      "Male": 127
+    },
+    "विश्वकर्मा": {
+      "Female": 13,
+      "Male": 11
+    },
+    "शेख": {
+      "Female": 6,
+      "Male": 4
+    },
+    "सिद्दीकी": {
+      "Female": 1,
+      "Male": 2
+    }
+  },
+  "household_structure": {
+    "total_unique_households": 149,
+    "average_voters_per_household": 6.79,
+    "largest_household_size": 113,
+    "single_voter_households": 57,
+    "large_influential_households_6_plus_voters": 59,
+    "top_largest_families": {
+      "367": 113,
+      "137": 46,
+      "313": 29,
+      "344": 27,
+      "228": 23,
+      "122": 23,
+      "327": 20,
+      "328": 19,
+      "341": 19,
+      "325": 17
+    }
+  },
+  "family_relation_types": {
+    "Father": 583,
+    "Husband": 424,
+    "Mother": 5
+  },
+  "epic_id_prefixes": {
+    "YJF": 595,
+    "HVC": 269,
+    "UP": 148
+  }
+}

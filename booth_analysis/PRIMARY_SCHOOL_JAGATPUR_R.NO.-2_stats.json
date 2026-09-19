@@ -1,0 +1,156 @@
+{
+  "booth_metadata": {
+    "booth_name": "Unknown Booth",
+    "locality": "Unknown Locality",
+    "total_registered_voters": 810
+  },
+  "gender_demographics": {
+    "counts": {
+      "Male": 442,
+      "Female": 368
+    },
+    "sex_ratio_females_per_1000_males": 832.6,
+    "third_gender_count": 0
+  },
+  "age_demographics": {
+    "statistics": {
+      "mean_age": 44.5,
+      "median_age": 42.0,
+      "min_age": 18,
+      "max_age": 94
+    },
+    "distribution_counts": {
+      "First_Time (18-21)": 35,
+      "Youth (22-35)": 216,
+      "Middle_Aged (36-50)": 285,
+      "Mature (51-65)": 197,
+      "Seniors (66-80)": 57,
+      "Super_Seniors (81+)": 20
+    },
+    "distribution_percentages": {
+      "First_Time (18-21)": 4.32,
+      "Youth (22-35)": 26.67,
+      "Middle_Aged (36-50)": 35.19,
+      "Mature (51-65)": 24.32,
+      "Seniors (66-80)": 7.04,
+      "Super_Seniors (81+)": 2.47
+    }
+  },
+  "socio_religious_profile": {
+    "religion_counts": {
+      "Hindu": 809,
+      "Muslim": 1
+    },
+    "religion_percentages": {
+      "Hindu": 99.88,
+      "Muslim": 0.12
+    },
+    "social_category_counts": {
+      "OBC": 330,
+      "General": 250,
+      "Undetermined": 170,
+      "SC": 60
+    },
+    "social_category_percentages": {
+      "OBC": 40.74,
+      "General": 30.86,
+      "Undetermined": 20.99,
+      "SC": 7.41
+    },
+    "caste_breakdown_counts": {
+      "यादव": 257,
+      "ब्राह्मण": 249,
+      "Undetermined": 170,
+      "चमार": 58,
+      "बिंद": 35,
+      "नाई": 30,
+      "कुर्मी": 7,
+      "धोबी": 2,
+      "राजपूत": 1,
+      "पाल": 1
+    },
+    "caste_breakdown_percentages": {
+      "यादव": 31.73,
+      "ब्राह्मण": 30.74,
+      "Undetermined": 20.99,
+      "चमार": 7.16,
+      "बिंद": 4.32,
+      "नाई": 3.7,
+      "कुर्मी": 0.86,
+      "धोबी": 0.25,
+      "राजपूत": 0.12,
+      "पाल": 0.12
+    }
+  },
+  "caste_gender_cross_tabulation": {
+    "Undetermined": {
+      "Female": 86,
+      "Male": 84
+    },
+    "कुर्मी": {
+      "Female": 3,
+      "Male": 4
+    },
+    "चमार": {
+      "Female": 27,
+      "Male": 31
+    },
+    "धोबी": {
+      "Female": 1,
+      "Male": 1
+    },
+    "नाई": {
+      "Female": 15,
+      "Male": 15
+    },
+    "पाल": {
+      "Female": 0,
+      "Male": 1
+    },
+    "बिंद": {
+      "Female": 22,
+      "Male": 13
+    },
+    "ब्राह्मण": {
+      "Female": 106,
+      "Male": 143
+    },
+    "यादव": {
+      "Female": 108,
+      "Male": 149
+    },
+    "राजपूत": {
+      "Female": 0,
+      "Male": 1
+    }
+  },
+  "household_structure": {
+    "total_unique_households": 99,
+    "average_voters_per_household": 8.18,
+    "largest_household_size": 50,
+    "single_voter_households": 25,
+    "large_influential_households_6_plus_voters": 45,
+    "top_largest_families": {
+      "8": 50,
+      "1": 40,
+      "148": 38,
+      "98": 29,
+      "178": 28,
+      "155": 22,
+      "162": 21,
+      "169": 21,
+      "154": 21,
+      "9": 20
+    }
+  },
+  "family_relation_types": {
+    "Father": 471,
+    "Husband": 338,
+    "Mother": 1
+  },
+  "epic_id_prefixes": {
+    "YJF": 499,
+    "JCP": 217,
+    "UP": 94
+  }
+}

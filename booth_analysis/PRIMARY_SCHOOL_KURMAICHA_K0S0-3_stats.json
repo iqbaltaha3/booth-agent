@@ -1,0 +1,124 @@
+{
+  "booth_metadata": {
+    "booth_name": "Unknown Booth",
+    "locality": "Unknown Locality",
+    "total_registered_voters": 798
+  },
+  "gender_demographics": {
+    "counts": {
+      "Male": 427,
+      "Female": 371
+    },
+    "sex_ratio_females_per_1000_males": 868.9,
+    "third_gender_count": 0
+  },
+  "age_demographics": {
+    "statistics": {
+      "mean_age": 44.4,
+      "median_age": 42.0,
+      "min_age": 19,
+      "max_age": 97
+    },
+    "distribution_counts": {
+      "First_Time (18-21)": 23,
+      "Youth (22-35)": 226,
+      "Middle_Aged (36-50)": 303,
+      "Mature (51-65)": 163,
+      "Seniors (66-80)": 63,
+      "Super_Seniors (81+)": 20
+    },
+    "distribution_percentages": {
+      "First_Time (18-21)": 2.88,
+      "Youth (22-35)": 28.32,
+      "Middle_Aged (36-50)": 37.97,
+      "Mature (51-65)": 20.43,
+      "Seniors (66-80)": 7.89,
+      "Super_Seniors (81+)": 2.51
+    }
+  },
+  "socio_religious_profile": {
+    "religion_counts": {
+      "Hindu": 795,
+      "Muslim": 3
+    },
+    "religion_percentages": {
+      "Hindu": 99.62,
+      "Muslim": 0.38
+    },
+    "social_category_counts": {
+      "OBC": 393,
+      "Undetermined": 384,
+      "General": 21
+    },
+    "social_category_percentages": {
+      "OBC": 49.25,
+      "Undetermined": 48.12,
+      "General": 2.63
+    },
+    "caste_breakdown_counts": {
+      "Undetermined": 384,
+      "बिंद": 326,
+      "नाई": 43,
+      "यादव": 24,
+      "राजपूत": 21
+    },
+    "caste_breakdown_percentages": {
+      "Undetermined": 48.12,
+      "बिंद": 40.85,
+      "नाई": 5.39,
+      "यादव": 3.01,
+      "राजपूत": 2.63
+    }
+  },
+  "caste_gender_cross_tabulation": {
+    "Undetermined": {
+      "Female": 190,
+      "Male": 194
+    },
+    "नाई": {
+      "Female": 21,
+      "Male": 22
+    },
+    "बिंद": {
+      "Female": 142,
+      "Male": 184
+    },
+    "यादव": {
+      "Female": 9,
+      "Male": 15
+    },
+    "राजपूत": {
+      "Female": 9,
+      "Male": 12
+    }
+  },
+  "household_structure": {
+    "total_unique_households": 88,
+    "average_voters_per_household": 9.07,
+    "largest_household_size": 27,
+    "single_voter_households": 3,
+    "large_influential_households_6_plus_voters": 68,
+    "top_largest_families": {
+      "75": 27,
+      "3": 25,
+      "12": 22,
+      "58": 19,
+      "52": 19,
+      "88": 19,
+      "62": 19,
+      "16": 18,
+      "87": 18,
+      "27": 17
+    }
+  },
+  "family_relation_types": {
+    "Father": 446,
+    "Husband": 351,
+    "Mother": 1
+  },
+  "epic_id_prefixes": {
+    "YJF": 449,
+    "HVC": 241,
+    "UP": 108
+  }
+}

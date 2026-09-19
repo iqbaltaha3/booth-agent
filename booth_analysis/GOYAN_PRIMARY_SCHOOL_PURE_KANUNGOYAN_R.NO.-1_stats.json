@@ -1,0 +1,162 @@
+{
+  "booth_metadata": {
+    "booth_name": "Unknown Booth",
+    "locality": "Unknown Locality",
+    "total_registered_voters": 928
+  },
+  "gender_demographics": {
+    "counts": {
+      "Male": 505,
+      "Female": 423
+    },
+    "sex_ratio_females_per_1000_males": 837.6,
+    "third_gender_count": 0
+  },
+  "age_demographics": {
+    "statistics": {
+      "mean_age": 42.8,
+      "median_age": 39.0,
+      "min_age": 18,
+      "max_age": 94
+    },
+    "distribution_counts": {
+      "First_Time (18-21)": 25,
+      "Youth (22-35)": 316,
+      "Middle_Aged (36-50)": 309,
+      "Mature (51-65)": 206,
+      "Seniors (66-80)": 59,
+      "Super_Seniors (81+)": 13
+    },
+    "distribution_percentages": {
+      "First_Time (18-21)": 2.69,
+      "Youth (22-35)": 34.05,
+      "Middle_Aged (36-50)": 33.3,
+      "Mature (51-65)": 22.2,
+      "Seniors (66-80)": 6.36,
+      "Super_Seniors (81+)": 1.4
+    }
+  },
+  "socio_religious_profile": {
+    "religion_counts": {
+      "Hindu": 869,
+      "Muslim": 59
+    },
+    "religion_percentages": {
+      "Hindu": 93.64,
+      "Muslim": 6.36
+    },
+    "social_category_counts": {
+      "General": 393,
+      "Undetermined": 361,
+      "OBC": 144,
+      "SC": 30
+    },
+    "social_category_percentages": {
+      "General": 42.35,
+      "Undetermined": 38.9,
+      "OBC": 15.52,
+      "SC": 3.23
+    },
+    "caste_breakdown_counts": {
+      "ब्राह्मण": 378,
+      "Undetermined": 361,
+      "यादव": 131,
+      "चमार": 22,
+      "कुर्मी": 11,
+      "पासी": 8,
+      "कायस्थ": 6,
+      "शेख": 5,
+      "बनिया": 4,
+      "कुशवाहा": 1,
+      "कुम्हार": 1
+    },
+    "caste_breakdown_percentages": {
+      "ब्राह्मण": 40.73,
+      "Undetermined": 38.9,
+      "यादव": 14.12,
+      "चमार": 2.37,
+      "कुर्मी": 1.19,
+      "पासी": 0.86,
+      "कायस्थ": 0.65,
+      "शेख": 0.54,
+      "बनिया": 0.43,
+      "कुशवाहा": 0.11,
+      "कुम्हार": 0.11
+    }
+  },
+  "caste_gender_cross_tabulation": {
+    "Undetermined": {
+      "Female": 178,
+      "Male": 183
+    },
+    "कायस्थ": {
+      "Female": 2,
+      "Male": 4
+    },
+    "कुम्हार": {
+      "Female": 0,
+      "Male": 1
+    },
+    "कुर्मी": {
+      "Female": 4,
+      "Male": 7
+    },
+    "कुशवाहा": {
+      "Female": 1,
+      "Male": 0
+    },
+    "चमार": {
+      "Female": 12,
+      "Male": 10
+    },
+    "पासी": {
+      "Female": 3,
+      "Male": 5
+    },
+    "बनिया": {
+      "Female": 0,
+      "Male": 4
+    },
+    "ब्राह्मण": {
+      "Female": 162,
+      "Male": 216
+    },
+    "यादव": {
+      "Female": 58,
+      "Male": 73
+    },
+    "शेख": {
+      "Female": 3,
+      "Male": 2
+    }
+  },
+  "household_structure": {
+    "total_unique_households": 159,
+    "average_voters_per_household": 5.84,
+    "largest_household_size": 35,
+    "single_voter_households": 35,
+    "large_influential_households_6_plus_voters": 54,
+    "top_largest_families": {
+      "168": 35,
+      "162": 34,
+      "195": 29,
+      "216": 26,
+      "62": 26,
+      "161": 22,
+      "188": 22,
+      "171": 21,
+      "192": 20,
+      "88": 19
+    }
+  },
+  "family_relation_types": {
+    "Father": 531,
+    "Husband": 393,
+    "Mother": 4
+  },
+  "epic_id_prefixes": {
+    "YJF": 899,
+    "HVC": 22,
+    "UP": 7
+  }
+}
