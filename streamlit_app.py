@@ -19,11 +19,11 @@ import streamlit as st
 # =============================================================================
 import os
 # Replace the hardcoded string with this:
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
-GROQ_MODEL = os.environ.get("GROQ_MODEL", "")
+HARDCODED_GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
+HARDCODED_GROQ_MODEL = os.environ.get("GROQ_MODEL", "")
 
-os.environ["GROQ_API_KEY"] = GROQ_API_KEY
-os.environ["GROQ_MODEL"] = GROQ_MODEL
+os.environ["GROQ_API_KEY"] = HARDCODED_GROQ_API_KEY
+os.environ["GROQ_MODEL"] = HARDCODED_GROQ_MODEL
 # =============================================================================
 
 ROOT = Path(__file__).resolve().parent
